@@ -1,0 +1,22 @@
+[2026-05-04 09:15:34] Status: 200 - Message: Login Berhasil
+[2026-05-04 09:16:58] Status: 200 - Message: Data Menu Berhasil Diambil
+[2026-05-04 09:21:23] Status: 200 - Message: Data Menu Berhasil Diambil
+[2026-05-04 09:28:09] Status: 200 - Message: Data Menu Berhasil Diambil
+[2026-05-04 09:31:47] Status: 403 - Message: Akses Ditolak: Token Tidak Valid atau Kadaluwarsa
+[2026-05-04 11:17:30] Status: 403 - Message: Akses Ditolak: Token Tidak Valid atau Kadaluwarsa
+[2026-05-04 11:25:03] Status: 200 - Message: Login Berhasil
+[2026-05-04 11:33:29] Status: 401 - Message: Username atau Password Salah
+[2026-05-04 11:33:48] Status: 200 - Message: Login Berhasil
+[2026-05-04 11:38:12] Status: 200 - Message: Login Berhasil
+[2026-05-04 11:43:10] Status: 401 - Message: Username atau Password Salah
+[2026-05-04 11:43:33] Status: 200 - Message: Login Berhasil
+[2026-05-04 11:46:20] Status: 200 - Message: Login Berhasil
+[2026-05-04 11:54:18] Status: 401 - Message: Username atau Password Salah
+[2026-05-04 11:54:29] Status: 200 - Message: Login Berhasil
+[2026-05-04 11:58:48] Status: 200 - Message: Login Berhasil
+[2026-05-04 12:01:47] Status: 401 - Message: Username atau Password Salah
+[2026-05-04 12:02:00] Status: 200 - Message: Login Berhasil
+[2026-05-04 12:05:26] Status: 200 - Message: Login Berhasil
+[2026-05-04 12:06:08] Status: 200 - Message: Login Berhasil
+[2026-05-04 12:15:49] Status: 200 - Message: Login Berhasil
+[2026-05-04 12:20:29] Status: 401 - Message: Akses Ditolak: Header Authorization Tidak Ditemukan
